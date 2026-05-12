@@ -492,9 +492,16 @@ The human-in-the-loop layer.
 - Approved tickets move to the Execution Layer.
 - Unapproved tickets expire within the session (typically end-of-day).
 
-Over time, specific trade types can be configured for auto-approval once
-their track record earns trust. Exits are typically fully automated from
-day one.
+All execution — entries *and* exits — is human-driven by default. The
+operator places every order on the broker themselves. The system produces
+information (screens, watchlist rows, draft tickets); the human moves the
+money.
+
+Automated execution is introduced selectively and explicitly, only after
+the operator has watched the system long enough to trust a specific
+pattern. Automated *exits* on already-open positions is typically the
+first thing relaxed; automated *entries* on a small subset of trusted
+trade types comes later. Neither is on at the start.
 
 ---
 
@@ -628,59 +635,120 @@ not depend on any one choice.
 
 Each phase must produce a *working* system — not a half-built one.
 
-**Phase 0 — Plumbing.**
+The system is built **research-engine-first**. The backtest framework and
+signal functions come before any live screen, and live screening comes
+before any machine-assisted execution. No phase introduces machine-placed
+orders. Order placement remains entirely in the operator's hands until
+explicitly relaxed (well beyond Phase 12).
+
+**Phase 0 — Plumbing.** *(done)*
 - Repo, Python environment, config loader, logger.
-- Alpaca paper account wired up.
-- Data store with one source (Alpaca daily bars).
-- Smoke test: place and cancel a paper order through the code.
+- Alpaca paper account wired up (read-only health check; no orders).
+- Container deploys to baradapi via Coolify on every push to `main`.
+- Paper-only safety guard enforced at config load.
 
-**Phase 1 — One signal, end-to-end.**
-- Minervini trend template screen on daily bars.
-- Pivot breakout entry.
-- Hardcoded position size (e.g., 1% risk per trade).
-- Hardcoded initial stop (below pivot / 7-8%).
-- Trade tickets queued to email for manual approval.
-- Runs on paper for at least several weeks.
+**Phase 1 — Data layer + backtest framework.**
+- Daily-bar ingestion from Alpaca for a small, hand-picked stock list
+  (chosen for *engine* exercise, not strategy validation — see note
+  below).
+- Curated Parquet zone partitioned by date; DuckDB query layer.
+- Backtest engine that loops over dates and calls signal functions
+  pinned to `as_of_date`. Same signal functions are designed to drive
+  the live screen later (spec §3.8).
+- Trivial reference signal (e.g., 50/200 MA cross) used to prove the
+  engine end-to-end: entry, stop, exit, PnL math, performance metrics.
+- Golden backtest reference established.
 
-**Phase 2 — Risk and exits.**
+**Phase 2 — Minervini trend template.**
+- Eight-checkpoint trend template implemented as signal functions.
+- Backtested across the hand-picked universe.
+- Pivot identification logic (simple rules; no base-pattern detection
+  yet).
+
+**Phase 3 — Base pattern detection.**
+- VCP, flat base, cup/handle, high-tight-flag detection.
+- Outputs base type, depth, length, pivot, contraction count, volume
+  dry-up flag.
+- Combined with the trend template in the backtester.
+
+**Phase 4 — Risk model.**
+- Initial stop placement (structural / N-ATR / pct backstop).
+- Position sizing (% account risk per trade).
 - Exit manager: trailing stop, MA break, partial profit take.
 - Portfolio heat tracker.
-- Daily / weekly loss caps.
-- Structured journal entries.
+- Daily/weekly loss caps modeled in the backtest.
+- All of the above are pure functions tested through the backtest first.
 
-**Phase 3 — Fundamentals.**
+**Phase 5 — Universe expansion.**
+- Widen beyond the hand-picked list. Document the survivorship/selection
+  bias explicitly.
+- Compare strategy results across hand-picked vs. broader universes —
+  the gap is the bias you were carrying.
+- Decide here whether to invest in proper point-in-time constituent
+  data.
+
+**Phase 6 — Regime engine.**
+- Simple version: 4-5 indicators (trend, breadth, credit, volatility),
+  equal weight, single 0-1 score.
+- Exposure multiplier and `new_entries_allowed` gate.
+- Regime-conditioned backtest views.
+
+**Phase 7 — Fundamentals (CANSLIM).**
 - Fundamentals provider integration.
-- CANSLIM-style screen.
+- CANSLIM-style screen — added on top of the technical signals in the
+  backtester.
 - Watchlist row becomes a first-class object (schema frozen here).
 
-**Phase 4 — Regime engine.**
-- Simple version: 4-5 indicators, equal weight, single 0-1 score.
-- Position-size multiplier wired into the decision engine.
-- Regime log persisted.
+**Phase 8 — Live research engine.**
+- The same signal functions used in backtest now run nightly on live
+  data.
+- Output: daily report of candidates (email, simple page, or both) with
+  `reasons` and `flags` per name.
+- The operator reads the output and decides what to do — on Alpaca, by
+  hand. The system places no orders.
+- This is the system's first useful real-time output. No execution code
+  yet.
 
-**Phase 5 — Backtesting framework.**
-- Use existing signal functions unchanged.
-- Walk-forward and golden backtest established.
-- Regime-conditioned performance views.
-
-**Phase 6 — Theme / macro module.**
+**Phase 9 — Theme / macro module.**
 - Per-sector macro scores.
-- Joined into watchlist rows.
-- Conviction and size adjustments.
+- Joined into the daily watchlist rows.
+- Conviction and suggested size adjustments surfaced to the operator.
 
-**Phase 7 — Event / catalyst stream.**
+**Phase 10 — Event / catalyst stream.**
 - News, filings, insider, congressional.
-- Idea generation pipe into the funnel.
-- Per-name de-risking flags.
+- Idea generation feeds the funnel.
+- Per-name de-risking flags surfaced in the daily output.
 
-**Phase 8 — Operational hardening.**
-- Hosted on VPS, reliable scheduling, observability.
-- Dashboard matured.
-- Selective auto-approval for trusted trade types.
+**Phase 11 — Approval queue + paper execution.**
+- The system begins drafting *tickets* (entry, stop, target, size).
+- Tickets go to the Approval Queue. The operator approves each one;
+  approval sends the order to Alpaca paper.
+- Still no automated entries or exits. Every order is approved
+  individually.
+- Runs on paper for an extended period before any of it is trusted.
 
-**Phase 9+ — Continuous evolution.**
+**Phase 12 — Operational hardening + selective automation.**
+- Reliable scheduling, observability, dashboard matured.
+- Selective auto-approval introduced — first for automated *exits* on
+  already-open positions (stops, MA breaks), then potentially for
+  *entries* on specific trade types whose track record has earned it.
+- Each relaxation is a deliberate decision, logged in the audit trail.
+
+**Phase 13+ — Continuous evolution.**
+- Live trading (after extensive paper-mode confidence).
 - Alternative data, deeper regime modeling, ML overlays, richer UI,
-  multi-account support, strategy variants.
+  strategy variants.
+
+---
+
+**Note on hand-picked universes (Phase 1).** Hand-picked stocks have
+worse bias than any index — picking names you remember as winners makes
+the backtest tell you what you already believe. Phase 1 backtests
+validate the *engine* (does it compute entries, exits, fills, PnL
+correctly?), not the *strategy*. Strategy claims wait until Phase 5
+when the universe widens. Picking deliberately mixed names — winners,
+blow-ups, boring middles, across sectors and eras — keeps the engine
+honest while still being small enough to iterate fast on.
 
 ---
 

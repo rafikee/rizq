@@ -12,11 +12,12 @@ Section 19 ("Open Questions") lists decisions explicitly deferred. When work tou
 
 ## Hard rules — these are not negotiable
 
-1. **Paper trading only.** `ALPACA_BASE_URL` must point at the paper endpoint. Live credentials are not stored in this repo and not used by any code path. Any change to broker config requires explicit confirmation from the user, every time.
-2. **Never place real orders during development or testing.** Not on paper, not on live. Tests mock the broker. Smoke tests against paper require the user to ask for them by name.
-3. **Human approves every transaction in live mode** — without exception, forever, until the user explicitly removes the rule. The Approval Queue (spec §10) is the chokepoint.
-4. **No options. No shorting. No leverage beyond what an Alpaca margin account permits on long equity.** These are scope boundaries from spec §2 — do not propose features that violate them.
-5. **No live trading code paths exist yet.** When live mode is eventually added, it must be gated behind an explicit config flag *and* a separate credentials file that doesn't exist by default.
+1. **Paper trading only.** `ALPACA_PAPER_BASE_URL` must point at the paper endpoint. Live credentials are not stored in this repo and not used by any code path. Any change to broker config requires explicit confirmation from the user, every time.
+2. **No machine-initiated orders — paper or live — until explicitly enabled.** This is stricter than the spec's default. The system produces information (screens, watchlist rows, ticket drafts). The human places every order on Alpaca, in any mode. Relaxation will be selective and explicit (e.g., automated stops on an already-open position) and only after the operator says so.
+3. **Never place real orders during development or testing.** Not on paper, not on live. Tests mock the broker. Smoke tests against paper require the user to ask for them by name.
+4. **Human approves every transaction in live mode** — without exception, forever, until the user explicitly removes the rule. The Approval Queue (spec §10) is the chokepoint.
+5. **No options. No shorting. No leverage beyond what an Alpaca margin account permits on long equity.** These are scope boundaries from spec §2 — do not propose features that violate them.
+6. **No live trading code paths exist yet.** When live mode is eventually added, it must be gated behind an explicit config flag *and* a separate credentials file that doesn't exist by default.
 
 ---
 
@@ -57,6 +58,18 @@ Each is a *reviewer*, not an implementer. I (main Claude) write the code; they c
 6. **One codebase for live and backtest.** Same signal functions in both. No parallel backtest codepath.
 7. **Kill switches are primary features**, not afterthoughts.
 8. **Layered human oversight.** Every recommendation carries human-readable `reasons` and `flags`.
+
+---
+
+## On backtests — the universe matters more than the rules
+
+Two rules to remember every time we run or interpret a backtest:
+
+1. **A hand-picked-universe backtest validates the *engine*, not the *strategy*.** Phase 1 deliberately uses ~10 hand-picked stocks. That's enough to prove entries, exits, fills, stops, sizing, and PnL math are correct. It is **not** enough to claim a strategy works. Selection bias on hand-picked names is worse than survivorship bias on any index — you used the answer to pick the test data. When reporting Phase 1 results, the questions are *"did the engine compute these correctly?"* not *"is the trend template profitable?"* The latter waits for Phase 5.
+
+2. **Strategy validation requires a less-biased universe.** Once the engine is solid, scaling the universe is what turns a backtest into evidence. Until then, report numbers without interpretation, and don't form opinions about the rules from the small-universe runs.
+
+The `backtest-auditor` agent enforces this — invoke it before reporting any backtest result.
 
 ---
 
