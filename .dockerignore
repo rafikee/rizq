@@ -15,4 +15,5 @@ data/
 .mypy_cache/
 tests/
 *.md
+!README.md
 .DS_Store
