@@ -1,0 +1,6839 @@
+{
+  "_generated_at": "2026-05-13T14:34:20.765803",
+  "config": {
+    "initial_capital": 100000.0,
+    "position_pct": 0.1,
+    "slippage_bps": 10.0
+  },
+  "end": "2025-12-30",
+  "equity_curve": [
+    {
+      "date": "2021-01-04",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-05",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-06",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-07",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-11",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-13",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-14",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-15",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-20",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-21",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-25",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-27",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-28",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-01-29",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-01",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-02",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-03",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-04",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-05",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-09",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-10",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-11",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-16",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-17",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-18",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-23",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-24",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-25",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-02-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-01",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-02",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-03",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-04",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-05",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-09",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-10",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-11",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-15",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-16",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-17",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-18",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-23",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-24",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-25",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-29",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-30",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-03-31",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-01",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-05",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-06",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-07",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-09",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-13",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-14",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-15",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-16",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-20",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-21",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-23",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-27",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-28",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-29",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-04-30",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-03",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-04",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-05",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-06",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-07",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-10",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-11",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-13",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-14",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-17",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-18",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-20",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-21",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-24",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-25",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-27",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-05-28",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-01",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-02",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-03",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-04",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-07",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-09",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-10",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-11",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-14",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-15",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-16",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-17",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-18",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-21",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-23",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-24",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-25",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-28",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-29",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-06-30",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-01",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-02",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-06",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-07",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-08",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-09",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-12",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-13",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-14",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-15",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-16",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-19",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-20",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-21",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-22",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-23",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-26",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-27",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-28",
+      "equity": 100000.0,
+      "invested": false
+    },
+    {
+      "date": "2021-07-29",
+      "equity": 100349.06032,
+      "invested": true
+    },
+    {
+      "date": "2021-07-30",
+      "equity": 100863.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-02",
+      "equity": 101077.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-03",
+      "equity": 101546.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-04",
+      "equity": 102005.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-05",
+      "equity": 101506.76032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-06",
+      "equity": 101208.92032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-09",
+      "equity": 100993.70032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-10",
+      "equity": 100860.08032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-08-11",
+      "equity": 100981.46032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-12",
+      "equity": 100895.78032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-13",
+      "equity": 101289.50032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-16",
+      "equity": 100927.40032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-17",
+      "equity": 100950.86032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-18",
+      "equity": 100578.56032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-19",
+      "equity": 100587.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-20",
+      "equity": 100704.02032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-08-23",
+      "equity": 101165.06032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-24",
+      "equity": 100977.38032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-25",
+      "equity": 101046.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-26",
+      "equity": 100949.84032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-27",
+      "equity": 101373.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-30",
+      "equity": 101347.64032,
+      "invested": true
+    },
+    {
+      "date": "2021-08-31",
+      "equity": 101311.94032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-09-01",
+      "equity": 101173.22032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-09-02",
+      "equity": 101142.62032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-03",
+      "equity": 101218.10032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-07",
+      "equity": 101091.62032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-08",
+      "equity": 100810.10032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-09",
+      "equity": 100850.90032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-10",
+      "equity": 100719.32032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-13",
+      "equity": 100706.06032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-14",
+      "equity": 100816.22032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-09-15",
+      "equity": 100781.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-16",
+      "equity": 100847.84032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-17",
+      "equity": 100574.48032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-20",
+      "equity": 100373.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-21",
+      "equity": 100457.18032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-22",
+      "equity": 100677.50032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-23",
+      "equity": 100842.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-24",
+      "equity": 100798.88032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-27",
+      "equity": 101034.50032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-28",
+      "equity": 100323.56032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-29",
+      "equity": 100302.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-09-30",
+      "equity": 100526.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-01",
+      "equity": 100464.32032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-04",
+      "equity": 100240.94032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-10-05",
+      "equity": 100373.54032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-06",
+      "equity": 100631.60032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-07",
+      "equity": 100886.60032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-08",
+      "equity": 100705.04032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-11",
+      "equity": 100659.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-12",
+      "equity": 100699.94032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-10-13",
+      "equity": 101199.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-14",
+      "equity": 101463.92032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-15",
+      "equity": 101438.42032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-18",
+      "equity": 101862.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-19",
+      "equity": 101869.88032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-20",
+      "equity": 101840.30032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-10-21",
+      "equity": 102351.32032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-22",
+      "equity": 102246.26032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-25",
+      "equity": 102597.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-26",
+      "equity": 102462.50032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-27",
+      "equity": 102520.64032,
+      "invested": true
+    },
+    {
+      "date": "2021-10-28",
+      "equity": 102320.72032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-10-29",
+      "equity": 102271.76032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-01",
+      "equity": 102768.50032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-02",
+      "equity": 103015.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-03",
+      "equity": 103372.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-04",
+      "equity": 104086.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-05",
+      "equity": 103933.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-08",
+      "equity": 105374.60032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-09",
+      "equity": 104985.98032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-10",
+      "equity": 104260.76032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-11",
+      "equity": 105096.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-12",
+      "equity": 105066.56032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-15",
+      "equity": 104940.08032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-11-16",
+      "equity": 105601.04032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-17",
+      "equity": 105585.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-18",
+      "equity": 105799.94032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-11-19",
+      "equity": 105835.64032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-22",
+      "equity": 105516.38032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-23",
+      "equity": 105303.20032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-24",
+      "equity": 106102.88032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-26",
+      "equity": 105783.62032,
+      "invested": true
+    },
+    {
+      "date": "2021-11-29",
+      "equity": 106685.30032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-11-30",
+      "equity": 106244.66032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-01",
+      "equity": 105402.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-02",
+      "equity": 105313.40032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-03",
+      "equity": 104663.66032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-06",
+      "equity": 104178.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-07",
+      "equity": 104816.66032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-08",
+      "equity": 104795.24032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-09",
+      "equity": 104133.26032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-10",
+      "equity": 104115.92032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-13",
+      "equity": 103663.04032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-14",
+      "equity": 103870.10032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-15",
+      "equity": 105045.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-16",
+      "equity": 104030.24032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-17",
+      "equity": 104098.58032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-12-20",
+      "equity": 104028.20032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-21",
+      "equity": 104688.14032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-22",
+      "equity": 104682.02032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-12-23",
+      "equity": 104894.18032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-27",
+      "equity": 105769.34032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-28",
+      "equity": 105676.52032000001,
+      "invested": true
+    },
+    {
+      "date": "2021-12-29",
+      "equity": 105075.74032,
+      "invested": true
+    },
+    {
+      "date": "2021-12-30",
+      "equity": 104687.99594000002,
+      "invested": true
+    },
+    {
+      "date": "2021-12-31",
+      "equity": 104407.09594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-03",
+      "equity": 105326.13594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-01-04",
+      "equity": 104676.47594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-05",
+      "equity": 103718.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-06",
+      "equity": 104008.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-07",
+      "equity": 103309.46594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-10",
+      "equity": 103152.97594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-11",
+      "equity": 103843.14594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-01-12",
+      "equity": 103940.89594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-01-13",
+      "equity": 103520.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-14",
+      "equity": 104191.37594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-18",
+      "equity": 103093.45594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-19",
+      "equity": 102353.81594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-20",
+      "equity": 101117.67594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-01-21",
+      "equity": 100446.77594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-01-24",
+      "equity": 100438.21594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-25",
+      "equity": 99892.98594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-26",
+      "equity": 100156.49594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-27",
+      "equity": 98715.68594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-01-28",
+      "equity": 99125.16594,
+      "invested": true
+    },
+    {
+      "date": "2022-01-31",
+      "equity": 100281.89594,
+      "invested": true
+    },
+    {
+      "date": "2022-02-01",
+      "equity": 101682.65594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-02",
+      "equity": 100762.17594,
+      "invested": true
+    },
+    {
+      "date": "2022-02-03",
+      "equity": 101095.76594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-04",
+      "equity": 100950.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-02-07",
+      "equity": 101032.51594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-08",
+      "equity": 101808.23594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-09",
+      "equity": 102995.54594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-10",
+      "equity": 102243.51594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-11",
+      "equity": 100857.75594,
+      "invested": true
+    },
+    {
+      "date": "2022-02-14",
+      "equity": 101073.24594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-15",
+      "equity": 102320.75594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-02-16",
+      "equity": 101937.57594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-17",
+      "equity": 101236.49594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-02-18",
+      "equity": 100801.26594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-22",
+      "equity": 101390.07594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-23",
+      "equity": 100202.79594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-02-24",
+      "equity": 100880.16594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-02-25",
+      "equity": 101695.02594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-02-28",
+      "equity": 101858.26594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-01",
+      "equity": 100618.49594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-02",
+      "equity": 101613.55594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-03",
+      "equity": 100775.07594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-04",
+      "equity": 99481.21594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-07",
+      "equity": 98133.05594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-08",
+      "equity": 98650.78594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-09",
+      "equity": 99422.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-10",
+      "equity": 98723.58594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-11",
+      "equity": 98107.50594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-14",
+      "equity": 97644.91594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-15",
+      "equity": 98852.47594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-16",
+      "equity": 100042.76594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-17",
+      "equity": 99502.91594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-18",
+      "equity": 99811.73594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-21",
+      "equity": 99815.23594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-22",
+      "equity": 99893.05594,
+      "invested": true
+    },
+    {
+      "date": "2022-03-23",
+      "equity": 99438.08594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-24",
+      "equity": 100349.91594000002,
+      "invested": true
+    },
+    {
+      "date": "2022-03-25",
+      "equity": 100393.31594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-28",
+      "equity": 100520.26594000001,
+      "invested": true
+    },
+    {
+      "date": "2022-03-29",
+      "equity": 101125.45596,
+      "invested": true
+    },
+    {
+      "date": "2022-03-30",
+      "equity": 100476.90596,
+      "invested": true
+    },
+    {
+      "date": "2022-03-31",
+      "equity": 100323.21596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-01",
+      "equity": 100127.01596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-04",
+      "equity": 100281.79596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-05",
+      "equity": 99942.80596000001,
+      "invested": true
+    },
+    {
+      "date": "2022-04-06",
+      "equity": 99817.45596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-07",
+      "equity": 99850.15596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-08",
+      "equity": 99661.58596000001,
+      "invested": true
+    },
+    {
+      "date": "2022-04-11",
+      "equity": 99626.70596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-12",
+      "equity": 99697.55596000001,
+      "invested": true
+    },
+    {
+      "date": "2022-04-13",
+      "equity": 99757.50596000001,
+      "invested": true
+    },
+    {
+      "date": "2022-04-14",
+      "equity": 99478.46596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-18",
+      "equity": 99649.59596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-19",
+      "equity": 99688.83596000001,
+      "invested": true
+    },
+    {
+      "date": "2022-04-20",
+      "equity": 99851.24596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-21",
+      "equity": 99518.79596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-22",
+      "equity": 99381.45596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-25",
+      "equity": 99437.04596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-26",
+      "equity": 99104.59596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-27",
+      "equity": 99168.90596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-28",
+      "equity": 99299.70596,
+      "invested": true
+    },
+    {
+      "date": "2022-04-29",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-02",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-03",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-04",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-05",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-06",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-09",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-10",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-11",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-12",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-13",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-16",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-17",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-18",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-19",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-20",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-23",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-24",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-25",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-26",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-27",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-05-31",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-01",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-02",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-03",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-06",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-07",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-08",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-09",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-10",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-13",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-14",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-15",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-16",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-17",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-21",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-22",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-23",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-24",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-27",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-28",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-29",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-06-30",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-01",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-05",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-06",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-07",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-08",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-11",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-12",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-13",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-14",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-15",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-18",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-19",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-20",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-21",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-22",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-25",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-26",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-27",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-28",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-07-29",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-01",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-02",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-03",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-04",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-05",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-08",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-09",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-10",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-11",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-12",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-15",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-16",
+      "equity": 99360.84079,
+      "invested": false
+    },
+    {
+      "date": "2022-08-17",
+      "equity": 99251.24719000001,
+      "invested": true
+    },
+    {
+      "date": "2022-08-18",
+      "equity": 98751.79719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-19",
+      "equity": 98180.99719000001,
+      "invested": true
+    },
+    {
+      "date": "2022-08-22",
+      "equity": 98238.07719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-23",
+      "equity": 98195.26719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-24",
+      "equity": 98537.74719000001,
+      "invested": true
+    },
+    {
+      "date": "2022-08-25",
+      "equity": 98751.79719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-26",
+      "equity": 98238.07719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-29",
+      "equity": 98323.69719,
+      "invested": true
+    },
+    {
+      "date": "2022-08-30",
+      "equity": 98226.27129,
+      "invested": true
+    },
+    {
+      "date": "2022-08-31",
+      "equity": 98407.39129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-01",
+      "equity": 97751.32128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-09-02",
+      "equity": 97297.60128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-09-06",
+      "equity": 97060.13129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-07",
+      "equity": 97301.24129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-08",
+      "equity": 97204.27128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-09-09",
+      "equity": 97898.03129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-12",
+      "equity": 97897.30129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-13",
+      "equity": 96332.70129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-14",
+      "equity": 96499.55129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-15",
+      "equity": 95135.08129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-16",
+      "equity": 94961.28129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-19",
+      "equity": 94939.33129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-20",
+      "equity": 94676.61129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-21",
+      "equity": 94418.28129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-22",
+      "equity": 93909.31129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-23",
+      "equity": 92981.37129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-26",
+      "equity": 93045.04129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-27",
+      "equity": 92983.93129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-28",
+      "equity": 93730.37129,
+      "invested": true
+    },
+    {
+      "date": "2022-09-29",
+      "equity": 93476.80128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-09-30",
+      "equity": 93510.83129,
+      "invested": true
+    },
+    {
+      "date": "2022-10-03",
+      "equity": 93369.59129,
+      "invested": true
+    },
+    {
+      "date": "2022-10-04",
+      "equity": 94052.37129,
+      "invested": true
+    },
+    {
+      "date": "2022-10-05",
+      "equity": 93722.32128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-06",
+      "equity": 93948.82129,
+      "invested": true
+    },
+    {
+      "date": "2022-10-07",
+      "equity": 93136.88128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-10",
+      "equity": 92741.35128999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-11",
+      "equity": 92617.67129,
+      "invested": true
+    },
+    {
+      "date": "2022-10-12",
+      "equity": 92345.10624999998,
+      "invested": true
+    },
+    {
+      "date": "2022-10-13",
+      "equity": 92552.52625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-14",
+      "equity": 91980.80625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-17",
+      "equity": 92262.64624999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-18",
+      "equity": 92603.65625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-19",
+      "equity": 91412.49625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-20",
+      "equity": 91209.17624999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-21",
+      "equity": 91769.06625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-24",
+      "equity": 90885.00624999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-25",
+      "equity": 91277.61625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-26",
+      "equity": 91271.07625,
+      "invested": true
+    },
+    {
+      "date": "2022-10-27",
+      "equity": 90632.09624999999,
+      "invested": true
+    },
+    {
+      "date": "2022-10-28",
+      "equity": 91482.93624999998,
+      "invested": true
+    },
+    {
+      "date": "2022-10-31",
+      "equity": 92074.29071,
+      "invested": true
+    },
+    {
+      "date": "2022-11-01",
+      "equity": 91908.90070999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-02",
+      "equity": 91019.02071,
+      "invested": true
+    },
+    {
+      "date": "2022-11-03",
+      "equity": 90776.06070999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-04",
+      "equity": 91257.96071,
+      "invested": true
+    },
+    {
+      "date": "2022-11-07",
+      "equity": 92413.85071,
+      "invested": true
+    },
+    {
+      "date": "2022-11-08",
+      "equity": 93543.37070999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-09",
+      "equity": 93062.20070999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-10",
+      "equity": 94044.27060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-11",
+      "equity": 93587.63061,
+      "invested": true
+    },
+    {
+      "date": "2022-11-14",
+      "equity": 93873.03060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-15",
+      "equity": 94101.35061,
+      "invested": true
+    },
+    {
+      "date": "2022-11-16",
+      "equity": 93516.28060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-17",
+      "equity": 93573.36060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-18",
+      "equity": 93516.28060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-21",
+      "equity": 93687.52060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-22",
+      "equity": 93673.25060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-23",
+      "equity": 94215.51060999998,
+      "invested": true
+    },
+    {
+      "date": "2022-11-25",
+      "equity": 93987.19060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-11-28",
+      "equity": 93915.84060999998,
+      "invested": true
+    },
+    {
+      "date": "2022-11-29",
+      "equity": 93644.71061,
+      "invested": true
+    },
+    {
+      "date": "2022-11-30",
+      "equity": 94101.35061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-01",
+      "equity": 94372.48060999998,
+      "invested": true
+    },
+    {
+      "date": "2022-12-02",
+      "equity": 94700.69060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-05",
+      "equity": 94843.39060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-06",
+      "equity": 94714.96061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-07",
+      "equity": 95257.22060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-08",
+      "equity": 95613.97060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-09",
+      "equity": 95457.00060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-12",
+      "equity": 95514.08060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-13",
+      "equity": 95756.67060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-14",
+      "equity": 95528.35061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-15",
+      "equity": 95114.52060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-16",
+      "equity": 94914.74061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-19",
+      "equity": 94814.85061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-20",
+      "equity": 94757.77060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-21",
+      "equity": 94914.74061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-22",
+      "equity": 94557.99061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-23",
+      "equity": 94443.83060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-27",
+      "equity": 94158.43061,
+      "invested": true
+    },
+    {
+      "date": "2022-12-28",
+      "equity": 94072.81060999999,
+      "invested": true
+    },
+    {
+      "date": "2022-12-29",
+      "equity": 94372.48060999998,
+      "invested": true
+    },
+    {
+      "date": "2022-12-30",
+      "equity": 94415.29061,
+      "invested": true
+    },
+    {
+      "date": "2023-01-03",
+      "equity": 94286.86060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-04",
+      "equity": 94700.69060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-05",
+      "equity": 93972.92060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-06",
+      "equity": 94015.73060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-01-09",
+      "equity": 94486.64060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-10",
+      "equity": 94929.01060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-01-11",
+      "equity": 94871.93061,
+      "invested": true
+    },
+    {
+      "date": "2023-01-12",
+      "equity": 95399.92060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-13",
+      "equity": 96013.53060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-17",
+      "equity": 96227.58060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-18",
+      "equity": 96298.93061,
+      "invested": true
+    },
+    {
+      "date": "2023-01-19",
+      "equity": 95942.18061,
+      "invested": true
+    },
+    {
+      "date": "2023-01-20",
+      "equity": 95628.24061,
+      "invested": true
+    },
+    {
+      "date": "2023-01-23",
+      "equity": 96156.23060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-01-24",
+      "equity": 96170.50060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-25",
+      "equity": 95870.83060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-26",
+      "equity": 96099.15060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-01-27",
+      "equity": 96327.47060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-01-30",
+      "equity": 95899.37060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-01-31",
+      "equity": 97083.78060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-01",
+      "equity": 96684.22060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-02",
+      "equity": 97140.86060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-03",
+      "equity": 96527.25060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-06",
+      "equity": 96455.90060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-02-07",
+      "equity": 97326.37060999998,
+      "invested": true
+    },
+    {
+      "date": "2023-02-08",
+      "equity": 97297.83060999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-09",
+      "equity": 98149.09237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-10",
+      "equity": 98997.91237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-13",
+      "equity": 99369.92236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-14",
+      "equity": 99751.15237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-15",
+      "equity": 100275.33236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-16",
+      "equity": 99462.06237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-17",
+      "equity": 99469.81237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-21",
+      "equity": 99297.22236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-22",
+      "equity": 99408.43237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-23",
+      "equity": 99666.64237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-24",
+      "equity": 99799.99236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-02-27",
+      "equity": 99765.67237,
+      "invested": true
+    },
+    {
+      "date": "2023-02-28",
+      "equity": 102344.73236999998,
+      "invested": true
+    },
+    {
+      "date": "2023-03-01",
+      "equity": 102487.55236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-03-02",
+      "equity": 101175.33236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-03-03",
+      "equity": 102884.80237,
+      "invested": true
+    },
+    {
+      "date": "2023-03-06",
+      "equity": 102718.73237,
+      "invested": true
+    },
+    {
+      "date": "2023-03-07",
+      "equity": 102975.23236999998,
+      "invested": true
+    },
+    {
+      "date": "2023-03-08",
+      "equity": 103256.08236999999,
+      "invested": true
+    },
+    {
+      "date": "2023-03-09",
+      "equity": 102216.70237,
+      "invested": true
+    },
+    {
+      "date": "2023-03-10",
+      "equity": 100748.44981,
+      "invested": true
+    },
+    {
+      "date": "2023-03-13",
+      "equity": 100559.12981,
+      "invested": true
+    },
+    {
+      "date": "2023-03-14",
+      "equity": 100448.57981,
+      "invested": true
+    },
+    {
+      "date": "2023-03-15",
+      "equity": 100951.24981000001,
+      "invested": true
+    },
+    {
+      "date": "2023-03-16",
+      "equity": 102511.18981,
+      "invested": true
+    },
+    {
+      "date": "2023-03-17",
+      "equity": 101987.76481,
+      "invested": true
+    },
+    {
+      "date": "2023-03-20",
+      "equity": 101492.51481,
+      "invested": true
+    },
+    {
+      "date": "2023-03-21",
+      "equity": 102325.12481,
+      "invested": true
+    },
+    {
+      "date": "2023-03-22",
+      "equity": 101595.09722,
+      "invested": true
+    },
+    {
+      "date": "2023-03-23",
+      "equity": 102299.59722,
+      "invested": true
+    },
+    {
+      "date": "2023-03-24",
+      "equity": 102328.53722,
+      "invested": true
+    },
+    {
+      "date": "2023-03-27",
+      "equity": 102175.00721999998,
+      "invested": true
+    },
+    {
+      "date": "2023-03-28",
+      "equity": 101897.57722000002,
+      "invested": true
+    },
+    {
+      "date": "2023-03-29",
+      "equity": 103494.92722000001,
+      "invested": true
+    },
+    {
+      "date": "2023-03-30",
+      "equity": 103947.06722,
+      "invested": true
+    },
+    {
+      "date": "2023-03-31",
+      "equity": 103810.07722000002,
+      "invested": true
+    },
+    {
+      "date": "2023-04-03",
+      "equity": 104089.28722000001,
+      "invested": true
+    },
+    {
+      "date": "2023-04-04",
+      "equity": 103117.53722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-05",
+      "equity": 101240.82722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-06",
+      "equity": 102904.73722000001,
+      "invested": true
+    },
+    {
+      "date": "2023-04-10",
+      "equity": 103643.17721999998,
+      "invested": true
+    },
+    {
+      "date": "2023-04-11",
+      "equity": 103171.79722000001,
+      "invested": true
+    },
+    {
+      "date": "2023-04-12",
+      "equity": 102699.21722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-13",
+      "equity": 103701.41721999999,
+      "invested": true
+    },
+    {
+      "date": "2023-04-14",
+      "equity": 103455.78722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-17",
+      "equity": 104437.16722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-18",
+      "equity": 106387.80722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-19",
+      "equity": 106289.08722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-20",
+      "equity": 106144.27722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-21",
+      "equity": 107221.48722,
+      "invested": true
+    },
+    {
+      "date": "2023-04-24",
+      "equity": 106617.02157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-04-25",
+      "equity": 104530.28157,
+      "invested": true
+    },
+    {
+      "date": "2023-04-26",
+      "equity": 104320.68157,
+      "invested": true
+    },
+    {
+      "date": "2023-04-27",
+      "equity": 105950.54157,
+      "invested": true
+    },
+    {
+      "date": "2023-04-28",
+      "equity": 105563.64157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-01",
+      "equity": 104623.27157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-02",
+      "equity": 103150.87157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-03",
+      "equity": 102621.47157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-04",
+      "equity": 103240.14157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-05",
+      "equity": 104587.76157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-08",
+      "equity": 104907.11157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-09",
+      "equity": 104457.06157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-10",
+      "equity": 105315.72157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-11",
+      "equity": 104026.78157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-12",
+      "equity": 103814.73157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-15",
+      "equity": 106563.34157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-16",
+      "equity": 105947.00157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-17",
+      "equity": 107551.62157,
+      "invested": true
+    },
+    {
+      "date": "2023-05-18",
+      "equity": 108389.00157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-19",
+      "equity": 107045.76157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-22",
+      "equity": 107355.61157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-23",
+      "equity": 105417.41157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-24",
+      "equity": 105809.58157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-25",
+      "equity": 105530.54157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-26",
+      "equity": 107525.97157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-05-30",
+      "equity": 107954.95157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-05-31",
+      "equity": 106105.00157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-01",
+      "equity": 106922.28157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-02",
+      "equity": 110125.55157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-05",
+      "equity": 110901.48157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-06",
+      "equity": 113281.64156999999,
+      "invested": true
+    },
+    {
+      "date": "2023-06-07",
+      "equity": 111366.19157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-08",
+      "equity": 112804.05157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-09",
+      "equity": 113687.87157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-12",
+      "equity": 115686.55157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-13",
+      "equity": 115580.13156999998,
+      "invested": true
+    },
+    {
+      "date": "2023-06-14",
+      "equity": 115196.65157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-15",
+      "equity": 113873.84157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-16",
+      "equity": 112728.97157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-20",
+      "equity": 113641.32157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-21",
+      "equity": 112206.71157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-22",
+      "equity": 113365.73157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-23",
+      "equity": 112145.66157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-06-26",
+      "equity": 109980.65157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-27",
+      "equity": 111747.43157,
+      "invested": true
+    },
+    {
+      "date": "2023-06-28",
+      "equity": 113761.28157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-29",
+      "equity": 114794.64157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-06-30",
+      "equity": 115159.79157,
+      "invested": true
+    },
+    {
+      "date": "2023-07-03",
+      "equity": 117376.46157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-05",
+      "equity": 117220.73157,
+      "invested": true
+    },
+    {
+      "date": "2023-07-06",
+      "equity": 115456.79157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-07-07",
+      "equity": 117284.13157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-10",
+      "equity": 119779.15157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-07-11",
+      "equity": 120290.67157,
+      "invested": true
+    },
+    {
+      "date": "2023-07-12",
+      "equity": 121430.40157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-07-13",
+      "equity": 125584.20157,
+      "invested": true
+    },
+    {
+      "date": "2023-07-14",
+      "equity": 122855.63157000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-17",
+      "equity": 124429.87157000002,
+      "invested": true
+    },
+    {
+      "date": "2023-07-18",
+      "equity": 124563.36831,
+      "invested": true
+    },
+    {
+      "date": "2023-07-19",
+      "equity": 125751.03831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-07-20",
+      "equity": 120408.45831,
+      "invested": true
+    },
+    {
+      "date": "2023-07-21",
+      "equity": 120044.16831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-24",
+      "equity": 117815.09830999999,
+      "invested": true
+    },
+    {
+      "date": "2023-07-25",
+      "equity": 118697.44831,
+      "invested": true
+    },
+    {
+      "date": "2023-07-26",
+      "equity": 120204.26831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-27",
+      "equity": 119814.88831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-07-28",
+      "equity": 124214.67831,
+      "invested": true
+    },
+    {
+      "date": "2023-07-31",
+      "equity": 126534.20831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-01",
+      "equity": 124793.49831,
+      "invested": true
+    },
+    {
+      "date": "2023-08-02",
+      "equity": 119396.44831,
+      "invested": true
+    },
+    {
+      "date": "2023-08-03",
+      "equity": 118931.84831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-04",
+      "equity": 117625.27831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-07",
+      "equity": 117592.97831,
+      "invested": true
+    },
+    {
+      "date": "2023-08-08",
+      "equity": 115564.69831,
+      "invested": true
+    },
+    {
+      "date": "2023-08-09",
+      "equity": 110486.51831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-10",
+      "equity": 109525.77831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-11",
+      "equity": 109173.45831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-14",
+      "equity": 109427.29831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-15",
+      "equity": 107706.94831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-16",
+      "equity": 105077.91831,
+      "invested": true
+    },
+    {
+      "date": "2023-08-17",
+      "equity": 103486.85831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-18",
+      "equity": 103988.99471,
+      "invested": true
+    },
+    {
+      "date": "2023-08-21",
+      "equity": 102473.79471,
+      "invested": true
+    },
+    {
+      "date": "2023-08-22",
+      "equity": 102045.14471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-23",
+      "equity": 105930.93471,
+      "invested": true
+    },
+    {
+      "date": "2023-08-24",
+      "equity": 102483.45471,
+      "invested": true
+    },
+    {
+      "date": "2023-08-25",
+      "equity": 103511.04470999999,
+      "invested": true
+    },
+    {
+      "date": "2023-08-28",
+      "equity": 103899.58471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-08-29",
+      "equity": 108907.64471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-30",
+      "equity": 109854.61471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-08-31",
+      "equity": 111226.33471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-09-01",
+      "equity": 113306.72471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-05",
+      "equity": 114037.10471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-06",
+      "equity": 114349.45470999999,
+      "invested": true
+    },
+    {
+      "date": "2023-09-07",
+      "equity": 113509.55471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-08",
+      "equity": 112993.07471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-09-11",
+      "equity": 112681.58471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-12",
+      "equity": 113468.15471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-13",
+      "equity": 112370.34471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-14",
+      "equity": 113697.45471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-15",
+      "equity": 110080.50471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-18",
+      "equity": 109701.96471000003,
+      "invested": true
+    },
+    {
+      "date": "2023-09-19",
+      "equity": 108185.32471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-20",
+      "equity": 105222.55471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-21",
+      "equity": 102149.58471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-22",
+      "equity": 101817.85471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-25",
+      "equity": 101825.82471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-09-26",
+      "equity": 100851.29471000003,
+      "invested": true
+    },
+    {
+      "date": "2023-09-27",
+      "equity": 102446.55471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-09-28",
+      "equity": 103757.78471,
+      "invested": true
+    },
+    {
+      "date": "2023-09-29",
+      "equity": 104128.16471000003,
+      "invested": true
+    },
+    {
+      "date": "2023-10-02",
+      "equity": 103137.98470999999,
+      "invested": true
+    },
+    {
+      "date": "2023-10-03",
+      "equity": 101026.52471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-04",
+      "equity": 102565.35470999999,
+      "invested": true
+    },
+    {
+      "date": "2023-10-05",
+      "equity": 101412.25471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-06",
+      "equity": 104859.85471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-09",
+      "equity": 104201.36471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-10",
+      "equity": 104619.19471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-11",
+      "equity": 104761.41471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-12",
+      "equity": 103650.69471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-13",
+      "equity": 100825.31471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-16",
+      "equity": 102644.18471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-17",
+      "equity": 103349.80471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-18",
+      "equity": 100311.17471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-10-19",
+      "equity": 98215.88471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-20",
+      "equity": 97161.96471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-23",
+      "equity": 97591.46471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-24",
+      "equity": 98993.19471000001,
+      "invested": true
+    },
+    {
+      "date": "2023-10-25",
+      "equity": 95261.92470999999,
+      "invested": true
+    },
+    {
+      "date": "2023-10-26",
+      "equity": 94180.49471,
+      "invested": true
+    },
+    {
+      "date": "2023-10-27",
+      "equity": 95031.14471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-10-30",
+      "equity": 95081.29471000002,
+      "invested": true
+    },
+    {
+      "date": "2023-10-31",
+      "equity": 95587.65371,
+      "invested": true
+    },
+    {
+      "date": "2023-11-01",
+      "equity": 97044.38371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-02",
+      "equity": 98565.45370999999,
+      "invested": true
+    },
+    {
+      "date": "2023-11-03",
+      "equity": 101913.07371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-06",
+      "equity": 100776.46371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-07",
+      "equity": 101336.10371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-08",
+      "equity": 101543.18371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-09",
+      "equity": 96145.69370999999,
+      "invested": true
+    },
+    {
+      "date": "2023-11-10",
+      "equity": 99479.86371,
+      "invested": true
+    },
+    {
+      "date": "2023-11-13",
+      "equity": 98241.04371,
+      "invested": true
+    },
+    {
+      "date": "2023-11-14",
+      "equity": 101968.87371000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-15",
+      "equity": 101594.33371,
+      "invested": true
+    },
+    {
+      "date": "2023-11-16",
+      "equity": 101482.04831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-17",
+      "equity": 101955.40831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-11-20",
+      "equity": 102638.58831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-21",
+      "equity": 101117.06831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-22",
+      "equity": 102055.64831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-24",
+      "equity": 102386.43831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-27",
+      "equity": 102587.70831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-11-28",
+      "equity": 102349.70831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-29",
+      "equity": 103731.77831,
+      "invested": true
+    },
+    {
+      "date": "2023-11-30",
+      "equity": 102745.77831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-01",
+      "equity": 107554.51831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-04",
+      "equity": 106325.42831,
+      "invested": true
+    },
+    {
+      "date": "2023-12-05",
+      "equity": 106504.38831,
+      "invested": true
+    },
+    {
+      "date": "2023-12-06",
+      "equity": 106298.16831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-07",
+      "equity": 107013.97831,
+      "invested": true
+    },
+    {
+      "date": "2023-12-08",
+      "equity": 107538.43831000003,
+      "invested": true
+    },
+    {
+      "date": "2023-12-11",
+      "equity": 108916.58831,
+      "invested": true
+    },
+    {
+      "date": "2023-12-12",
+      "equity": 109536.05831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-12-13",
+      "equity": 111444.12831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-14",
+      "equity": 111991.56831,
+      "invested": true
+    },
+    {
+      "date": "2023-12-15",
+      "equity": 110770.53831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-12-18",
+      "equity": 111038.74831000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-19",
+      "equity": 111640.64831000002,
+      "invested": true
+    },
+    {
+      "date": "2023-12-20",
+      "equity": 110438.01486000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-21",
+      "equity": 111946.72486,
+      "invested": true
+    },
+    {
+      "date": "2023-12-22",
+      "equity": 112180.37486000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-26",
+      "equity": 113296.40486000001,
+      "invested": true
+    },
+    {
+      "date": "2023-12-27",
+      "equity": 112564.44486000002,
+      "invested": true
+    },
+    {
+      "date": "2023-12-28",
+      "equity": 111167.94506,
+      "invested": true
+    },
+    {
+      "date": "2023-12-29",
+      "equity": 108940.29506000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-02",
+      "equity": 106198.51506,
+      "invested": true
+    },
+    {
+      "date": "2024-01-03",
+      "equity": 104183.58054,
+      "invested": true
+    },
+    {
+      "date": "2024-01-04",
+      "equity": 104072.39054000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-05",
+      "equity": 104502.68054,
+      "invested": true
+    },
+    {
+      "date": "2024-01-08",
+      "equity": 106699.45054000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-09",
+      "equity": 106695.24054000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-10",
+      "equity": 107182.66054000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-11",
+      "equity": 105488.08054000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-12",
+      "equity": 103737.59054,
+      "invested": true
+    },
+    {
+      "date": "2024-01-16",
+      "equity": 105603.91054000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-17",
+      "equity": 104593.32054000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-18",
+      "equity": 103761.11054000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-19",
+      "equity": 104061.45782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-22",
+      "equity": 104410.93782000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-23",
+      "equity": 104079.04782,
+      "invested": true
+    },
+    {
+      "date": "2024-01-24",
+      "equity": 104234.95782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-01-25",
+      "equity": 103261.72782,
+      "invested": true
+    },
+    {
+      "date": "2024-01-26",
+      "equity": 103305.57782000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-29",
+      "equity": 105593.90782,
+      "invested": true
+    },
+    {
+      "date": "2024-01-30",
+      "equity": 102094.87782000002,
+      "invested": true
+    },
+    {
+      "date": "2024-01-31",
+      "equity": 101751.93781999999,
+      "invested": true
+    },
+    {
+      "date": "2024-02-01",
+      "equity": 102854.48782,
+      "invested": true
+    },
+    {
+      "date": "2024-02-02",
+      "equity": 103533.40782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-05",
+      "equity": 102135.02782000002,
+      "invested": true
+    },
+    {
+      "date": "2024-02-06",
+      "equity": 102443.66782,
+      "invested": true
+    },
+    {
+      "date": "2024-02-07",
+      "equity": 103198.91782000002,
+      "invested": true
+    },
+    {
+      "date": "2024-02-08",
+      "equity": 107106.31782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-09",
+      "equity": 109752.77782,
+      "invested": true
+    },
+    {
+      "date": "2024-02-12",
+      "equity": 110547.71782,
+      "invested": true
+    },
+    {
+      "date": "2024-02-13",
+      "equity": 107567.11782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-14",
+      "equity": 112183.36782000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-15",
+      "equity": 110696.66870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-16",
+      "equity": 108945.4087,
+      "invested": true
+    },
+    {
+      "date": "2024-02-20",
+      "equity": 107054.10870000003,
+      "invested": true
+    },
+    {
+      "date": "2024-02-21",
+      "equity": 106891.38870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-22",
+      "equity": 108675.65870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-23",
+      "equity": 108333.43870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-26",
+      "equity": 110864.6387,
+      "invested": true
+    },
+    {
+      "date": "2024-02-27",
+      "equity": 115408.68870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-28",
+      "equity": 113473.71870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-02-29",
+      "equity": 116110.5687,
+      "invested": true
+    },
+    {
+      "date": "2024-03-01",
+      "equity": 118184.1587,
+      "invested": true
+    },
+    {
+      "date": "2024-03-04",
+      "equity": 120719.83870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-03-05",
+      "equity": 117449.9787,
+      "invested": true
+    },
+    {
+      "date": "2024-03-06",
+      "equity": 118460.1787,
+      "invested": true
+    },
+    {
+      "date": "2024-03-07",
+      "equity": 120140.27870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-03-08",
+      "equity": 122342.26870000002,
+      "invested": true
+    },
+    {
+      "date": "2024-03-11",
+      "equity": 120761.0387,
+      "invested": true
+    },
+    {
+      "date": "2024-03-12",
+      "equity": 122189.60870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-03-13",
+      "equity": 120630.51870000002,
+      "invested": true
+    },
+    {
+      "date": "2024-03-14",
+      "equity": 116990.6787,
+      "invested": true
+    },
+    {
+      "date": "2024-03-15",
+      "equity": 117872.94870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-03-18",
+      "equity": 118890.7087,
+      "invested": true
+    },
+    {
+      "date": "2024-03-19",
+      "equity": 118064.6087,
+      "invested": true
+    },
+    {
+      "date": "2024-03-20",
+      "equity": 124223.80870000001,
+      "invested": true
+    },
+    {
+      "date": "2024-03-21",
+      "equity": 123977.28870000002,
+      "invested": true
+    },
+    {
+      "date": "2024-03-22",
+      "equity": 122760.7187,
+      "invested": true
+    },
+    {
+      "date": "2024-03-25",
+      "equity": 125723.9487,
+      "invested": true
+    },
+    {
+      "date": "2024-03-26",
+      "equity": 125872.73186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-03-27",
+      "equity": 124695.08186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-03-28",
+      "equity": 123830.94186,
+      "invested": true
+    },
+    {
+      "date": "2024-04-01",
+      "equity": 125930.68186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-02",
+      "equity": 123102.89186,
+      "invested": true
+    },
+    {
+      "date": "2024-04-03",
+      "equity": 124405.28186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-04-04",
+      "equity": 120082.13186,
+      "invested": true
+    },
+    {
+      "date": "2024-04-05",
+      "equity": 120164.89186,
+      "invested": true
+    },
+    {
+      "date": "2024-04-08",
+      "equity": 120232.71186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-09",
+      "equity": 119288.65186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-10",
+      "equity": 117945.90186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-04-11",
+      "equity": 119607.67186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-12",
+      "equity": 115836.15186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-15",
+      "equity": 112755.36186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-16",
+      "equity": 113324.89186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-17",
+      "equity": 111185.24186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-18",
+      "equity": 109909.84186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-04-19",
+      "equity": 106776.26186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-04-22",
+      "equity": 109376.48186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-23",
+      "equity": 113310.03186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-24",
+      "equity": 112320.75186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-25",
+      "equity": 114149.91186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-04-26",
+      "equity": 115398.06186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-04-29",
+      "equity": 115208.12186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-04-30",
+      "equity": 112062.69186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-01",
+      "equity": 112240.00186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-02",
+      "equity": 114136.95186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-03",
+      "equity": 114879.35186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-05-06",
+      "equity": 118228.94186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-07",
+      "equity": 117923.66186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-05-08",
+      "equity": 117142.74186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-09",
+      "equity": 119142.66186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-05-10",
+      "equity": 118150.08186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-13",
+      "equity": 119112.74186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-05-14",
+      "equity": 120581.36186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-15",
+      "equity": 124386.90186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-05-16",
+      "equity": 125396.75186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-17",
+      "equity": 126574.49186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-20",
+      "equity": 133316.20186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-21",
+      "equity": 132326.45186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-22",
+      "equity": 131080.18186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-23",
+      "equity": 127848.73186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-05-24",
+      "equity": 131274.14186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-28",
+      "equity": 134207.76186,
+      "invested": true
+    },
+    {
+      "date": "2024-05-29",
+      "equity": 133162.94186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-30",
+      "equity": 131436.69186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-05-31",
+      "equity": 129778.62186000001,
+      "invested": true
+    },
+    {
+      "date": "2024-06-03",
+      "equity": 131674.14186,
+      "invested": true
+    },
+    {
+      "date": "2024-06-04",
+      "equity": 132350.18186,
+      "invested": true
+    },
+    {
+      "date": "2024-06-05",
+      "equity": 136167.56186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-06",
+      "equity": 137348.70186000003,
+      "invested": true
+    },
+    {
+      "date": "2024-06-07",
+      "equity": 133613.99186,
+      "invested": true
+    },
+    {
+      "date": "2024-06-10",
+      "equity": 134579.54186,
+      "invested": true
+    },
+    {
+      "date": "2024-06-11",
+      "equity": 136172.25186000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-12",
+      "equity": 141150.43679,
+      "invested": true
+    },
+    {
+      "date": "2024-06-13",
+      "equity": 142033.01679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-14",
+      "equity": 140673.39679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-06-17",
+      "equity": 146980.52679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-06-18",
+      "equity": 148039.57679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-20",
+      "equity": 143381.99679,
+      "invested": true
+    },
+    {
+      "date": "2024-06-21",
+      "equity": 139743.96679,
+      "invested": true
+    },
+    {
+      "date": "2024-06-24",
+      "equity": 139029.01679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-25",
+      "equity": 142500.20679,
+      "invested": true
+    },
+    {
+      "date": "2024-06-26",
+      "equity": 138250.63679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-27",
+      "equity": 138301.41679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-06-28",
+      "equity": 138721.37679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-01",
+      "equity": 140537.78679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-02",
+      "equity": 143796.83679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-03",
+      "equity": 144405.37679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-05",
+      "equity": 147907.50679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-08",
+      "equity": 146868.19679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-09",
+      "equity": 144984.34679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-10",
+      "equity": 145108.28679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-11",
+      "equity": 143432.10679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-12",
+      "equity": 148479.94679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-15",
+      "equity": 150311.90679000004,
+      "invested": true
+    },
+    {
+      "date": "2024-07-16",
+      "equity": 150235.65679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-17",
+      "equity": 143149.52679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-18",
+      "equity": 136789.69679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-19",
+      "equity": 136148.73679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-22",
+      "equity": 139425.56679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-23",
+      "equity": 143127.16679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-24",
+      "equity": 136866.30679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-07-25",
+      "equity": 141847.93679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-26",
+      "equity": 144345.64679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-07-29",
+      "equity": 142987.22679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-07-30",
+      "equity": 140914.21679,
+      "invested": true
+    },
+    {
+      "date": "2024-07-31",
+      "equity": 148012.46679,
+      "invested": true
+    },
+    {
+      "date": "2024-08-01",
+      "equity": 138574.35679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-08-02",
+      "equity": 132681.05679,
+      "invested": true
+    },
+    {
+      "date": "2024-08-05",
+      "equity": 132474.16679000005,
+      "invested": true
+    },
+    {
+      "date": "2024-08-06",
+      "equity": 129776.65679000001,
+      "invested": true
+    },
+    {
+      "date": "2024-08-07",
+      "equity": 126853.11679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-08-08",
+      "equity": 139177.91679000005,
+      "invested": true
+    },
+    {
+      "date": "2024-08-09",
+      "equity": 135675.01679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-08-12",
+      "equity": 133786.70679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-08-13",
+      "equity": 137753.44679000002,
+      "invested": true
+    },
+    {
+      "date": "2024-08-14",
+      "equity": 136592.54679,
+      "invested": true
+    },
+    {
+      "date": "2024-08-15",
+      "equity": 155682.77679000003,
+      "invested": true
+    },
+    {
+      "date": "2024-08-16",
+      "equity": 155125.43729,
+      "invested": true
+    },
+    {
+      "date": "2024-08-19",
+      "equity": 168515.54729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-08-20",
+      "equity": 160518.37729000003,
+      "invested": true
+    },
+    {
+      "date": "2024-08-21",
+      "equity": 166590.69729000004,
+      "invested": true
+    },
+    {
+      "date": "2024-08-22",
+      "equity": 161142.02729000003,
+      "invested": true
+    },
+    {
+      "date": "2024-08-23",
+      "equity": 160558.45729,
+      "invested": true
+    },
+    {
+      "date": "2024-08-26",
+      "equity": 159312.20729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-08-27",
+      "equity": 153091.06729,
+      "invested": true
+    },
+    {
+      "date": "2024-08-28",
+      "equity": 145979.03729000004,
+      "invested": true
+    },
+    {
+      "date": "2024-08-29",
+      "equity": 150747.75729000004,
+      "invested": true
+    },
+    {
+      "date": "2024-08-30",
+      "equity": 150598.10729,
+      "invested": true
+    },
+    {
+      "date": "2024-09-03",
+      "equity": 146156.32729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-09-04",
+      "equity": 150847.79729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-09-05",
+      "equity": 144588.76729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-09-06",
+      "equity": 142264.87729,
+      "invested": true
+    },
+    {
+      "date": "2024-09-09",
+      "equity": 145141.50729000004,
+      "invested": true
+    },
+    {
+      "date": "2024-09-10",
+      "equity": 147135.52729,
+      "invested": true
+    },
+    {
+      "date": "2024-09-11",
+      "equity": 150835.70729000005,
+      "invested": true
+    },
+    {
+      "date": "2024-09-12",
+      "equity": 149409.23729000002,
+      "invested": true
+    },
+    {
+      "date": "2024-09-13",
+      "equity": 156397.34729,
+      "invested": true
+    },
+    {
+      "date": "2024-09-16",
+      "equity": 155292.13729,
+      "invested": true
+    },
+    {
+      "date": "2024-09-17",
+      "equity": 153225.39233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-18",
+      "equity": 154772.40233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-19",
+      "equity": 155784.04233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-09-20",
+      "equity": 152829.08233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-23",
+      "equity": 153333.49233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-24",
+      "equity": 154997.52233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-25",
+      "equity": 152293.09233,
+      "invested": true
+    },
+    {
+      "date": "2024-09-26",
+      "equity": 151627.81233000004,
+      "invested": true
+    },
+    {
+      "date": "2024-09-27",
+      "equity": 153088.06233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-09-30",
+      "equity": 154991.65233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-01",
+      "equity": 150941.18233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-02",
+      "equity": 150164.65233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-03",
+      "equity": 147232.25233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-04",
+      "equity": 154350.53233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-07",
+      "equity": 154280.88233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-08",
+      "equity": 152633.88233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-09",
+      "equity": 150082.78233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-10",
+      "equity": 151466.78233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-11",
+      "equity": 154462.21233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-14",
+      "equity": 159371.49233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-15",
+      "equity": 160585.32233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-16",
+      "equity": 165466.86233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-10-17",
+      "equity": 164626.91233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-18",
+      "equity": 166231.05233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-10-21",
+      "equity": 166083.86233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-10-22",
+      "equity": 165238.64233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-23",
+      "equity": 160759.07233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-24",
+      "equity": 160121.69233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-25",
+      "equity": 160066.86233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-10-28",
+      "equity": 165573.33233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-10-29",
+      "equity": 165482.06233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-10-30",
+      "equity": 159118.49233,
+      "invested": true
+    },
+    {
+      "date": "2024-10-31",
+      "equity": 154578.02233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-01",
+      "equity": 155047.87233000004,
+      "invested": true
+    },
+    {
+      "date": "2024-11-04",
+      "equity": 155087.13233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-05",
+      "equity": 157017.84233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-06",
+      "equity": 162631.69233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-07",
+      "equity": 161684.96233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-08",
+      "equity": 163402.84233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-11",
+      "equity": 176021.84233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-12",
+      "equity": 173378.04233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-11-13",
+      "equity": 179016.29233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-11-14",
+      "equity": 159175.81233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-15",
+      "equity": 158291.33233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-11-18",
+      "equity": 161558.02233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-19",
+      "equity": 167391.30233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-11-20",
+      "equity": 162952.97233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-21",
+      "equity": 167634.13233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-22",
+      "equity": 171672.07233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-25",
+      "equity": 178173.77233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-26",
+      "equity": 175885.88233,
+      "invested": true
+    },
+    {
+      "date": "2024-11-27",
+      "equity": 176644.31233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-11-29",
+      "equity": 180990.00233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-12-02",
+      "equity": 179003.10233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-12-03",
+      "equity": 181271.23233000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-04",
+      "equity": 185361.71233000004,
+      "invested": true
+    },
+    {
+      "date": "2024-12-05",
+      "equity": 180908.32233000002,
+      "invested": true
+    },
+    {
+      "date": "2024-12-06",
+      "equity": 187721.66233,
+      "invested": true
+    },
+    {
+      "date": "2024-12-09",
+      "equity": 184400.73233,
+      "invested": true
+    },
+    {
+      "date": "2024-12-10",
+      "equity": 176057.98313000004,
+      "invested": true
+    },
+    {
+      "date": "2024-12-11",
+      "equity": 176458.03313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-12",
+      "equity": 174389.16313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-13",
+      "equity": 174980.30313000001,
+      "invested": true
+    },
+    {
+      "date": "2024-12-16",
+      "equity": 177723.28313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-17",
+      "equity": 177169.58313000004,
+      "invested": true
+    },
+    {
+      "date": "2024-12-18",
+      "equity": 168377.74313000002,
+      "invested": true
+    },
+    {
+      "date": "2024-12-19",
+      "equity": 167767.18313000002,
+      "invested": true
+    },
+    {
+      "date": "2024-12-20",
+      "equity": 169570.89313000004,
+      "invested": true
+    },
+    {
+      "date": "2024-12-23",
+      "equity": 177496.02313000005,
+      "invested": true
+    },
+    {
+      "date": "2024-12-24",
+      "equity": 177696.69313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-26",
+      "equity": 193495.78313000005,
+      "invested": true
+    },
+    {
+      "date": "2024-12-27",
+      "equity": 183304.94313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-30",
+      "equity": 181836.66313000003,
+      "invested": true
+    },
+    {
+      "date": "2024-12-31",
+      "equity": 168284.86313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-02",
+      "equity": 177453.84313000005,
+      "invested": true
+    },
+    {
+      "date": "2025-01-03",
+      "equity": 184573.85313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-01-06",
+      "equity": 183576.18313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-01-07",
+      "equity": 178285.66313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-01-08",
+      "equity": 171333.17313000004,
+      "invested": true
+    },
+    {
+      "date": "2025-01-10",
+      "equity": 177352.69313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-01-13",
+      "equity": 171714.10313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-14",
+      "equity": 172046.87313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-01-15",
+      "equity": 177993.58313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-16",
+      "equity": 178593.76313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-17",
+      "equity": 178470.65313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-01-21",
+      "equity": 184006.15313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-01-22",
+      "equity": 178397.82313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-23",
+      "equity": 179844.59313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-01-24",
+      "equity": 180281.42313000004,
+      "invested": true
+    },
+    {
+      "date": "2025-01-27",
+      "equity": 177087.75313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-01-28",
+      "equity": 179926.61313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-29",
+      "equity": 174304.41313,
+      "invested": true
+    },
+    {
+      "date": "2025-01-30",
+      "equity": 175758.83313000004,
+      "invested": true
+    },
+    {
+      "date": "2025-01-31",
+      "equity": 180801.68313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-03",
+      "equity": 188199.03313000005,
+      "invested": true
+    },
+    {
+      "date": "2025-02-04",
+      "equity": 193263.34313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-05",
+      "equity": 197238.31313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-06",
+      "equity": 199524.84313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-07",
+      "equity": 201939.51313000004,
+      "invested": true
+    },
+    {
+      "date": "2025-02-10",
+      "equity": 213760.46313000005,
+      "invested": true
+    },
+    {
+      "date": "2025-02-11",
+      "equity": 211563.73313,
+      "invested": true
+    },
+    {
+      "date": "2025-02-12",
+      "equity": 211742.77313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-13",
+      "equity": 231088.42313,
+      "invested": true
+    },
+    {
+      "date": "2025-02-14",
+      "equity": 237023.88312999997,
+      "invested": true
+    },
+    {
+      "date": "2025-02-18",
+      "equity": 237580.93313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-19",
+      "equity": 249727.07313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-02-20",
+      "equity": 241327.27313000002,
+      "invested": true
+    },
+    {
+      "date": "2025-02-21",
+      "equity": 209501.35312999997,
+      "invested": true
+    },
+    {
+      "date": "2025-02-24",
+      "equity": 205697.43313000005,
+      "invested": true
+    },
+    {
+      "date": "2025-02-25",
+      "equity": 186983.00313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-02-26",
+      "equity": 192257.80313000001,
+      "invested": true
+    },
+    {
+      "date": "2025-02-27",
+      "equity": 185257.41313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-02-28",
+      "equity": 190610.76313,
+      "invested": true
+    },
+    {
+      "date": "2025-03-03",
+      "equity": 178698.36313,
+      "invested": true
+    },
+    {
+      "date": "2025-03-04",
+      "equity": 183610.88313000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-05",
+      "equity": 190262.36313,
+      "invested": true
+    },
+    {
+      "date": "2025-03-06",
+      "equity": 177228.68088000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-07",
+      "equity": 177669.22088000004,
+      "invested": true
+    },
+    {
+      "date": "2025-03-10",
+      "equity": 164381.23088000005,
+      "invested": true
+    },
+    {
+      "date": "2025-03-11",
+      "equity": 166779.55088000002,
+      "invested": true
+    },
+    {
+      "date": "2025-03-12",
+      "equity": 167608.12088000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-13",
+      "equity": 160230.17088000002,
+      "invested": true
+    },
+    {
+      "date": "2025-03-14",
+      "equity": 166513.92088000002,
+      "invested": true
+    },
+    {
+      "date": "2025-03-17",
+      "equity": 168440.67088000002,
+      "invested": true
+    },
+    {
+      "date": "2025-03-18",
+      "equity": 160425.46088000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-19",
+      "equity": 162163.37088000006,
+      "invested": true
+    },
+    {
+      "date": "2025-03-20",
+      "equity": 158882.96728,
+      "invested": true
+    },
+    {
+      "date": "2025-03-21",
+      "equity": 163711.45728000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-24",
+      "equity": 172509.75728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-03-25",
+      "equity": 170451.20728,
+      "invested": true
+    },
+    {
+      "date": "2025-03-26",
+      "equity": 164075.51728000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-27",
+      "equity": 159299.86728000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-28",
+      "equity": 151094.54728000003,
+      "invested": true
+    },
+    {
+      "date": "2025-03-31",
+      "equity": 155488.87728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-01",
+      "equity": 156339.47728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-02",
+      "equity": 153980.30728,
+      "invested": true
+    },
+    {
+      "date": "2025-04-03",
+      "equity": 153622.35728000003,
+      "invested": true
+    },
+    {
+      "date": "2025-04-04",
+      "equity": 146633.15728,
+      "invested": true
+    },
+    {
+      "date": "2025-04-07",
+      "equity": 152628.19728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-08",
+      "equity": 145340.41728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-09",
+      "equity": 162361.30728,
+      "invested": true
+    },
+    {
+      "date": "2025-04-10",
+      "equity": 154099.53728000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-11",
+      "equity": 156013.27728,
+      "invested": true
+    },
+    {
+      "date": "2025-04-14",
+      "equity": 156970.35100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-15",
+      "equity": 157928.38100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-16",
+      "equity": 154173.38100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-17",
+      "equity": 158460.241,
+      "invested": true
+    },
+    {
+      "date": "2025-04-21",
+      "equity": 157281.74100000004,
+      "invested": true
+    },
+    {
+      "date": "2025-04-22",
+      "equity": 160393.16100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-23",
+      "equity": 164787.651,
+      "invested": true
+    },
+    {
+      "date": "2025-04-24",
+      "equity": 166044.861,
+      "invested": true
+    },
+    {
+      "date": "2025-04-25",
+      "equity": 163579.491,
+      "invested": true
+    },
+    {
+      "date": "2025-04-28",
+      "equity": 164947.13100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-04-29",
+      "equity": 172113.831,
+      "invested": true
+    },
+    {
+      "date": "2025-04-30",
+      "equity": 167965.361,
+      "invested": true
+    },
+    {
+      "date": "2025-05-01",
+      "equity": 169621.92100000003,
+      "invested": true
+    },
+    {
+      "date": "2025-05-02",
+      "equity": 183131.861,
+      "invested": true
+    },
+    {
+      "date": "2025-05-05",
+      "equity": 181327.34100000001,
+      "invested": true
+    },
+    {
+      "date": "2025-05-06",
+      "equity": 191012.621,
+      "invested": true
+    },
+    {
+      "date": "2025-05-07",
+      "equity": 194378.391,
+      "invested": true
+    },
+    {
+      "date": "2025-05-08",
+      "equity": 195144.55100000004,
+      "invested": true
+    },
+    {
+      "date": "2025-05-09",
+      "equity": 199499.04100000003,
+      "invested": true
+    },
+    {
+      "date": "2025-05-12",
+      "equity": 210449.15100000004,
+      "invested": true
+    },
+    {
+      "date": "2025-05-13",
+      "equity": 228682.361,
+      "invested": true
+    },
+    {
+      "date": "2025-05-14",
+      "equity": 223438.47100000002,
+      "invested": true
+    },
+    {
+      "date": "2025-05-15",
+      "equity": 224313.89837,
+      "invested": true
+    },
+    {
+      "date": "2025-05-16",
+      "equity": 230373.73837000004,
+      "invested": true
+    },
+    {
+      "date": "2025-05-19",
+      "equity": 233201.41837000003,
+      "invested": true
+    },
+    {
+      "date": "2025-05-20",
+      "equity": 234330.85837000003,
+      "invested": true
+    },
+    {
+      "date": "2025-05-21",
+      "equity": 227381.73837,
+      "invested": true
+    },
+    {
+      "date": "2025-05-22",
+      "equity": 222177.57837,
+      "invested": true
+    },
+    {
+      "date": "2025-05-23",
+      "equity": 230095.49837000002,
+      "invested": true
+    },
+    {
+      "date": "2025-05-27",
+      "equity": 226866.05837,
+      "invested": true
+    },
+    {
+      "date": "2025-05-28",
+      "equity": 227944.61837000004,
+      "invested": true
+    },
+    {
+      "date": "2025-05-29",
+      "equity": 224422.53837,
+      "invested": true
+    },
+    {
+      "date": "2025-05-30",
+      "equity": 226710.85837000003,
+      "invested": true
+    },
+    {
+      "date": "2025-06-02",
+      "equity": 226654.37837,
+      "invested": true
+    },
+    {
+      "date": "2025-06-03",
+      "equity": 223825.89837000004,
+      "invested": true
+    },
+    {
+      "date": "2025-06-04",
+      "equity": 219294.05837,
+      "invested": true
+    },
+    {
+      "date": "2025-06-05",
+      "equity": 219677.57837000003,
+      "invested": true
+    },
+    {
+      "date": "2025-06-06",
+      "equity": 231785.89837,
+      "invested": true
+    },
+    {
+      "date": "2025-06-09",
+      "equity": 235275.65837000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-10",
+      "equity": 234710.53837000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-11",
+      "equity": 237398.85837000003,
+      "invested": true
+    },
+    {
+      "date": "2025-06-12",
+      "equity": 237051.33837000004,
+      "invested": true
+    },
+    {
+      "date": "2025-06-13",
+      "equity": 231999.49837000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-16",
+      "equity": 247211.67987000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-17",
+      "equity": 242355.59987000003,
+      "invested": true
+    },
+    {
+      "date": "2025-06-18",
+      "equity": 246708.88987000004,
+      "invested": true
+    },
+    {
+      "date": "2025-06-20",
+      "equity": 246407.95987000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-23",
+      "equity": 219508.52987,
+      "invested": true
+    },
+    {
+      "date": "2025-06-24",
+      "equity": 222568.47987000004,
+      "invested": true
+    },
+    {
+      "date": "2025-06-25",
+      "equity": 217348.13987,
+      "invested": true
+    },
+    {
+      "date": "2025-06-26",
+      "equity": 226088.58987000003,
+      "invested": true
+    },
+    {
+      "date": "2025-06-27",
+      "equity": 230806.45987000002,
+      "invested": true
+    },
+    {
+      "date": "2025-06-30",
+      "equity": 223819.82989000005,
+      "invested": true
+    },
+    {
+      "date": "2025-07-01",
+      "equity": 218707.82989000005,
+      "invested": true
+    },
+    {
+      "date": "2025-07-02",
+      "equity": 217855.77989000003,
+      "invested": true
+    },
+    {
+      "date": "2025-07-03",
+      "equity": 219275.24989000004,
+      "invested": true
+    },
+    {
+      "date": "2025-07-07",
+      "equity": 217136.98989000006,
+      "invested": true
+    },
+    {
+      "date": "2025-07-08",
+      "equity": 219624.94989000002,
+      "invested": true
+    },
+    {
+      "date": "2025-07-09",
+      "equity": 217647.78787000006,
+      "invested": true
+    },
+    {
+      "date": "2025-07-10",
+      "equity": 215224.39787000002,
+      "invested": true
+    },
+    {
+      "date": "2025-07-11",
+      "equity": 209243.01787000004,
+      "invested": true
+    },
+    {
+      "date": "2025-07-14",
+      "equity": 218304.96787000005,
+      "invested": true
+    },
+    {
+      "date": "2025-07-15",
+      "equity": 217401.74787000002,
+      "invested": true
+    },
+    {
+      "date": "2025-07-16",
+      "equity": 218790.56787,
+      "invested": true
+    },
+    {
+      "date": "2025-07-17",
+      "equity": 221997.07676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-07-18",
+      "equity": 225214.31676,
+      "invested": true
+    },
+    {
+      "date": "2025-07-21",
+      "equity": 219620.14676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-07-22",
+      "equity": 223531.55676,
+      "invested": true
+    },
+    {
+      "date": "2025-07-23",
+      "equity": 238708.64676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-07-24",
+      "equity": 232812.66676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-07-25",
+      "equity": 231967.71676,
+      "invested": true
+    },
+    {
+      "date": "2025-07-28",
+      "equity": 232448.89676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-07-29",
+      "equity": 232062.77676,
+      "invested": true
+    },
+    {
+      "date": "2025-07-30",
+      "equity": 242700.99676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-07-31",
+      "equity": 236033.82676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-08-01",
+      "equity": 222378.69676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-04",
+      "equity": 226626.07676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-08-05",
+      "equity": 213629.70676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-08-06",
+      "equity": 211564.58676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-08-07",
+      "equity": 212899.16676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-08-08",
+      "equity": 217367.56676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-11",
+      "equity": 216168.19676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-12",
+      "equity": 210288.52676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-08-13",
+      "equity": 215794.54676,
+      "invested": true
+    },
+    {
+      "date": "2025-08-14",
+      "equity": 213793.12676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-08-15",
+      "equity": 210970.62676000007,
+      "invested": true
+    },
+    {
+      "date": "2025-08-18",
+      "equity": 209427.66676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-19",
+      "equity": 196520.41676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-20",
+      "equity": 202286.19676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-21",
+      "equity": 200768.69676,
+      "invested": true
+    },
+    {
+      "date": "2025-08-22",
+      "equity": 208456.15676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-08-25",
+      "equity": 208707.64676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-08-26",
+      "equity": 212853.43676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-08-27",
+      "equity": 206748.38676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-08-28",
+      "equity": 216319.37676,
+      "invested": true
+    },
+    {
+      "date": "2025-08-29",
+      "equity": 212539.57676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-09-02",
+      "equity": 213202.30676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-03",
+      "equity": 212688.50676000008,
+      "invested": true
+    },
+    {
+      "date": "2025-09-04",
+      "equity": 212918.04676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-09-05",
+      "equity": 212769.61676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-08",
+      "equity": 222422.04676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-09-09",
+      "equity": 221679.39676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-09-10",
+      "equity": 225618.90676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-09-11",
+      "equity": 232942.44676000002,
+      "invested": true
+    },
+    {
+      "date": "2025-09-12",
+      "equity": 247267.22676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-15",
+      "equity": 251634.68676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-16",
+      "equity": 245868.18676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-17",
+      "equity": 250792.21676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-09-18",
+      "equity": 257476.76676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-09-19",
+      "equity": 265814.5667600001,
+      "invested": true
+    },
+    {
+      "date": "2025-09-22",
+      "equity": 277153.66676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-09-23",
+      "equity": 283791.68676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-24",
+      "equity": 285226.81676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-25",
+      "equity": 279176.81676,
+      "invested": true
+    },
+    {
+      "date": "2025-09-26",
+      "equity": 276318.2567600001,
+      "invested": true
+    },
+    {
+      "date": "2025-09-29",
+      "equity": 287218.20676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-09-30",
+      "equity": 284857.0867600001,
+      "invested": true
+    },
+    {
+      "date": "2025-10-01",
+      "equity": 295458.61676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-10-02",
+      "equity": 308174.10676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-03",
+      "equity": 304745.59676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-10-06",
+      "equity": 336759.34676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-10-07",
+      "equity": 335316.15676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-08",
+      "equity": 349654.84676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-10-09",
+      "equity": 356046.71676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-10-10",
+      "equity": 330510.33676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-10-13",
+      "equity": 365532.29676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-14",
+      "equity": 372395.9767600001,
+      "invested": true
+    },
+    {
+      "date": "2025-10-15",
+      "equity": 403458.2867600001,
+      "invested": true
+    },
+    {
+      "date": "2025-10-16",
+      "equity": 379197.79676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-10-17",
+      "equity": 363634.68676000007,
+      "invested": true
+    },
+    {
+      "date": "2025-10-20",
+      "equity": 365509.56676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-21",
+      "equity": 340418.41676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-10-22",
+      "equity": 330282.64676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-10-23",
+      "equity": 346260.83676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-10-24",
+      "equity": 361135.33676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-10-27",
+      "equity": 361131.74676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-28",
+      "equity": 356351.40676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-10-29",
+      "equity": 352879.29676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-30",
+      "equity": 351500.11676,
+      "invested": true
+    },
+    {
+      "date": "2025-10-31",
+      "equity": 353889.29676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-11-03",
+      "equity": 359220.61676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-11-04",
+      "equity": 340528.31676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-05",
+      "equity": 368037.15676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-11-06",
+      "equity": 340326.75676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-07",
+      "equity": 338824.91676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-10",
+      "equity": 338195.00676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-11",
+      "equity": 322868.89676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-11-12",
+      "equity": 311141.77676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-11-13",
+      "equity": 292290.52676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-11-14",
+      "equity": 293311.45676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-11-17",
+      "equity": 282014.18676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-18",
+      "equity": 284011.01676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-19",
+      "equity": 288643.76676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-20",
+      "equity": 255916.51676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-11-21",
+      "equity": 257979.50676000005,
+      "invested": true
+    },
+    {
+      "date": "2025-11-24",
+      "equity": 279042.44676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-25",
+      "equity": 272638.29676000006,
+      "invested": true
+    },
+    {
+      "date": "2025-11-26",
+      "equity": 279740.44676,
+      "invested": true
+    },
+    {
+      "date": "2025-11-28",
+      "equity": 282801.08676000003,
+      "invested": true
+    },
+    {
+      "date": "2025-12-01",
+      "equity": 275358.25676,
+      "invested": true
+    },
+    {
+      "date": "2025-12-02",
+      "equity": 269499.06676,
+      "invested": true
+    },
+    {
+      "date": "2025-12-03",
+      "equity": 278168.52676000004,
+      "invested": true
+    },
+    {
+      "date": "2025-12-04",
+      "equity": 291886.2067600001,
+      "invested": true
+    },
+    {
+      "date": "2025-12-05",
+      "equity": 292890.32676,
+      "invested": true
+    },
+    {
+      "date": "2025-12-08",
+      "equity": 295478.99676000007,
+      "invested": true
+    },
+    {
+      "date": "2025-12-09",
+      "equity": 293235.63932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-10",
+      "equity": 292425.48932000005,
+      "invested": true
+    },
+    {
+      "date": "2025-12-11",
+      "equity": 294448.8493200001,
+      "invested": true
+    },
+    {
+      "date": "2025-12-12",
+      "equity": 276039.21932000003,
+      "invested": true
+    },
+    {
+      "date": "2025-12-15",
+      "equity": 258498.75932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-16",
+      "equity": 264589.69932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-17",
+      "equity": 255118.08932000003,
+      "invested": true
+    },
+    {
+      "date": "2025-12-18",
+      "equity": 263421.00932000007,
+      "invested": true
+    },
+    {
+      "date": "2025-12-19",
+      "equity": 281852.60932000005,
+      "invested": true
+    },
+    {
+      "date": "2025-12-22",
+      "equity": 291934.57932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-23",
+      "equity": 293513.67932000005,
+      "invested": true
+    },
+    {
+      "date": "2025-12-24",
+      "equity": 288602.25932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-26",
+      "equity": 280580.33932,
+      "invested": true
+    },
+    {
+      "date": "2025-12-29",
+      "equity": 278947.6393200001,
+      "invested": true
+    },
+    {
+      "date": "2025-12-30",
+      "equity": 279539.52932000003,
+      "invested": true
+    }
+  ],
+  "equity_curve_monthly": [
+    {
+      "date": "2021-01-29",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-02-26",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-03-31",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-04-30",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-05-28",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-06-30",
+      "equity": 100000.0
+    },
+    {
+      "date": "2021-07-30",
+      "equity": 100863.14032
+    },
+    {
+      "date": "2021-08-31",
+      "equity": 101311.94032000001
+    },
+    {
+      "date": "2021-09-30",
+      "equity": 100526.54032
+    },
+    {
+      "date": "2021-10-29",
+      "equity": 102271.76032
+    },
+    {
+      "date": "2021-11-30",
+      "equity": 106244.66032
+    },
+    {
+      "date": "2021-12-31",
+      "equity": 104407.09594000001
+    },
+    {
+      "date": "2022-01-31",
+      "equity": 100281.89594
+    },
+    {
+      "date": "2022-02-28",
+      "equity": 101858.26594000001
+    },
+    {
+      "date": "2022-03-31",
+      "equity": 100323.21596
+    },
+    {
+      "date": "2022-04-29",
+      "equity": 99360.84079
+    },
+    {
+      "date": "2022-05-31",
+      "equity": 99360.84079
+    },
+    {
+      "date": "2022-06-30",
+      "equity": 99360.84079
+    },
+    {
+      "date": "2022-07-29",
+      "equity": 99360.84079
+    },
+    {
+      "date": "2022-08-31",
+      "equity": 98407.39129
+    },
+    {
+      "date": "2022-09-30",
+      "equity": 93510.83129
+    },
+    {
+      "date": "2022-10-31",
+      "equity": 92074.29071
+    },
+    {
+      "date": "2022-11-30",
+      "equity": 94101.35061
+    },
+    {
+      "date": "2022-12-30",
+      "equity": 94415.29061
+    },
+    {
+      "date": "2023-01-31",
+      "equity": 97083.78060999999
+    },
+    {
+      "date": "2023-02-28",
+      "equity": 102344.73236999998
+    },
+    {
+      "date": "2023-03-31",
+      "equity": 103810.07722000002
+    },
+    {
+      "date": "2023-04-28",
+      "equity": 105563.64157
+    },
+    {
+      "date": "2023-05-31",
+      "equity": 106105.00157000001
+    },
+    {
+      "date": "2023-06-30",
+      "equity": 115159.79157
+    },
+    {
+      "date": "2023-07-31",
+      "equity": 126534.20831000002
+    },
+    {
+      "date": "2023-08-31",
+      "equity": 111226.33471000002
+    },
+    {
+      "date": "2023-09-29",
+      "equity": 104128.16471000003
+    },
+    {
+      "date": "2023-10-31",
+      "equity": 95587.65371
+    },
+    {
+      "date": "2023-11-30",
+      "equity": 102745.77831000001
+    },
+    {
+      "date": "2023-12-29",
+      "equity": 108940.29506000002
+    },
+    {
+      "date": "2024-01-31",
+      "equity": 101751.93781999999
+    },
+    {
+      "date": "2024-02-29",
+      "equity": 116110.5687
+    },
+    {
+      "date": "2024-03-28",
+      "equity": 123830.94186
+    },
+    {
+      "date": "2024-04-30",
+      "equity": 112062.69186
+    },
+    {
+      "date": "2024-05-31",
+      "equity": 129778.62186000001
+    },
+    {
+      "date": "2024-06-28",
+      "equity": 138721.37679
+    },
+    {
+      "date": "2024-07-31",
+      "equity": 148012.46679
+    },
+    {
+      "date": "2024-08-30",
+      "equity": 150598.10729
+    },
+    {
+      "date": "2024-09-30",
+      "equity": 154991.65233
+    },
+    {
+      "date": "2024-10-31",
+      "equity": 154578.02233
+    },
+    {
+      "date": "2024-11-29",
+      "equity": 180990.00233000002
+    },
+    {
+      "date": "2024-12-31",
+      "equity": 168284.86313
+    },
+    {
+      "date": "2025-01-31",
+      "equity": 180801.68313000002
+    },
+    {
+      "date": "2025-02-28",
+      "equity": 190610.76313
+    },
+    {
+      "date": "2025-03-31",
+      "equity": 155488.87728000002
+    },
+    {
+      "date": "2025-04-30",
+      "equity": 167965.361
+    },
+    {
+      "date": "2025-05-30",
+      "equity": 226710.85837000003
+    },
+    {
+      "date": "2025-06-30",
+      "equity": 223819.82989000005
+    },
+    {
+      "date": "2025-07-31",
+      "equity": 236033.82676000003
+    },
+    {
+      "date": "2025-08-29",
+      "equity": 212539.57676000005
+    },
+    {
+      "date": "2025-09-30",
+      "equity": 284857.0867600001
+    },
+    {
+      "date": "2025-10-31",
+      "equity": 353889.29676000006
+    },
+    {
+      "date": "2025-11-28",
+      "equity": 282801.08676000003
+    },
+    {
+      "date": "2025-12-30",
+      "equity": 279539.52932000003
+    }
+  ],
+  "metrics": {
+    "avg_loss": -3285.4230237499987,
+    "avg_win": 11655.393040000003,
+    "cagr": 0.2294641349124773,
+    "expectancy_pct": 0.38743501260336577,
+    "final_equity": 279539.52932000003,
+    "hit_rate": 0.5,
+    "invested_sharpe": 0.8467921153765546,
+    "max_drawdown": -0.4180029603584855,
+    "num_trades": 16.0,
+    "sharpe": 0.7708044314829691,
+    "time_in_market": 0.8261562998405104,
+    "total_return": 1.7953952932000004
+  },
+  "signal_name": "sma_50_200_cross",
+  "start": "2021-01-04",
+  "tickers": [
+    "AMD",
+    "ASTS",
+    "HIMS",
+    "IOT",
+    "IREN",
+    "MU",
+    "MVST",
+    "TTD"
+  ],
+  "trades": [
+    {
+      "bars_held": 168,
+      "entry_date": "2021-07-29",
+      "entry_price": 97.93784,
+      "exit_date": "2022-03-29",
+      "exit_price": 120.36950999999999,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 2288.03034,
+      "pnl_pct": 0.2290398685533599,
+      "qty": 102,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "AMD",
+      "trade_id": "AMD-2021-07-28"
+    },
+    {
+      "bars_held": 83,
+      "entry_date": "2021-12-30",
+      "entry_price": 95.91581999999998,
+      "exit_date": "2022-04-29",
+      "exit_price": 69.06087,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -2927.1895499999987,
+      "pnl_pct": -0.2799845739733028,
+      "qty": 109,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "MU",
+      "trade_id": "MU-2021-12-29"
+    },
+    {
+      "bars_held": 13,
+      "entry_date": "2022-10-12",
+      "entry_price": 53.01295999999999,
+      "exit_date": "2022-10-31",
+      "exit_price": 53.65629,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 111.93942000000104,
+      "pnl_pct": 0.012135334454065783,
+      "qty": 174,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "TTD",
+      "trade_id": "TTD-2022-10-11"
+    },
+    {
+      "bars_held": 51,
+      "entry_date": "2022-08-30",
+      "entry_price": 12.39238,
+      "exit_date": "2022-11-10",
+      "exit_price": 6.81318,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -4491.255999999999,
+      "pnl_pct": -0.450212146496476,
+      "qty": 805,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "ASTS",
+      "trade_id": "ASTS-2022-08-29"
+    },
+    {
+      "bars_held": 252,
+      "entry_date": "2022-08-17",
+      "entry_price": 6.806799999999999,
+      "exit_date": "2023-08-18",
+      "exit_price": 6.7932,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -19.40719999999913,
+      "pnl_pct": -0.0019980019980019303,
+      "qty": 1427,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "HIMS",
+      "trade_id": "HIMS-2022-08-16"
+    },
+    {
+      "bars_held": 132,
+      "entry_date": "2023-04-24",
+      "entry_price": 3.95395,
+      "exit_date": "2023-10-31",
+      "exit_price": 2.997,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -2533.0466499999998,
+      "pnl_pct": -0.24202379898582427,
+      "qty": 2647,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "IREN",
+      "trade_id": "IREN-2023-04-21"
+    },
+    {
+      "bars_held": 86,
+      "entry_date": "2023-07-18",
+      "entry_price": 2.47247,
+      "exit_date": "2023-11-16",
+      "exit_price": 1.2987,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -5936.92866,
+      "pnl_pct": -0.47473579052526427,
+      "qty": 5058,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "MVST",
+      "trade_id": "MVST-2023-07-17"
+    },
+    {
+      "bars_held": 189,
+      "entry_date": "2023-03-22",
+      "entry_price": 58.88882999999999,
+      "exit_date": "2023-12-20",
+      "exit_price": 77.57235,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 3232.2489600000013,
+      "pnl_pct": 0.31726763802235514,
+      "qty": 173,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "TTD",
+      "trade_id": "TTD-2023-03-21"
+    },
+    {
+      "bars_held": 30,
+      "entry_date": "2024-01-03",
+      "entry_price": 5.225219999999999,
+      "exit_date": "2024-02-15",
+      "exit_price": 3.31668,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -3943.043639999999,
+      "pnl_pct": -0.3652554342209514,
+      "qty": 2066,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "ASTS",
+      "trade_id": "ASTS-2024-01-02"
+    },
+    {
+      "bars_held": 356,
+      "entry_date": "2023-03-17",
+      "entry_price": 97.097,
+      "exit_date": "2024-08-16",
+      "exit_price": 147.7521,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 5318.785500000002,
+      "pnl_pct": 0.5216958299432528,
+      "qty": 105,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "AMD",
+      "trade_id": "AMD-2023-03-16"
+    },
+    {
+      "bars_held": 382,
+      "entry_date": "2023-03-10",
+      "entry_price": 55.39534,
+      "exit_date": "2024-09-17",
+      "exit_price": 87.60231,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 5926.082480000001,
+      "pnl_pct": 0.5814021540440046,
+      "qty": 184,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "MU",
+      "trade_id": "MU-2023-03-09"
+    },
+    {
+      "bars_held": 236,
+      "entry_date": "2024-03-26",
+      "entry_price": 87.96787999999998,
+      "exit_date": "2025-03-06",
+      "exit_price": 65.68425,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -3186.559089999996,
+      "pnl_pct": -0.25331552834966553,
+      "qty": 143,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "TTD",
+      "trade_id": "TTD-2024-03-25"
+    },
+    {
+      "bars_held": 306,
+      "entry_date": "2023-12-28",
+      "entry_price": 10.16015,
+      "exit_date": "2025-03-20",
+      "exit_price": 7.2927,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": -3245.9534,
+      "pnl_pct": -0.282225163998563,
+      "qty": 1132,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "IREN",
+      "trade_id": "IREN-2023-12-27"
+    },
+    {
+      "bars_held": 545,
+      "entry_date": "2023-02-09",
+      "entry_price": 15.135119999999997,
+      "exit_date": "2025-04-14",
+      "exit_price": 38.85111,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 15462.825480000001,
+      "pnl_pct": 1.5669509062366211,
+      "qty": 652,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "IOT",
+      "trade_id": "IOT-2023-02-08"
+    },
+    {
+      "bars_held": 231,
+      "entry_date": "2024-06-12",
+      "entry_price": 9.699689999999999,
+      "exit_date": "2025-05-15",
+      "exit_price": 26.183790000000002,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 23127.192300000006,
+      "pnl_pct": 1.6994460647711427,
+      "qty": 1403,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "ASTS",
+      "trade_id": "ASTS-2024-06-11"
+    },
+    {
+      "bars_held": 474,
+      "entry_date": "2024-01-19",
+      "entry_price": 8.46846,
+      "exit_date": "2025-12-09",
+      "exit_price": 39.13083,
+      "exit_reason": "SMA50 crossed below SMA200",
+      "flags": [],
+      "pnl": 37776.039840000005,
+      "pnl_pct": 3.6207728441770994,
+      "qty": 1232,
+      "reasons": [
+        "SMA50 crossed above SMA200",
+        "SMA50 crossed below SMA200"
+      ],
+      "ticker": "HIMS",
+      "trade_id": "HIMS-2024-01-18"
+    }
+  ]
+}

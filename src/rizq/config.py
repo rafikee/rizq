@@ -1,4 +1,5 @@
 from functools import lru_cache
+from pathlib import Path
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -15,6 +16,14 @@ class Settings(BaseSettings):
     databento_api_key: str | None = None
 
     database_path: str = "./data/rizq.db"
+    data_root: Path = Path("./data")
+    raw_zone: Path = Path("./data/raw")
+    curated_zone: Path = Path("./data/curated")
+
+    backtest_initial_capital: float = 100_000.0
+    backtest_slippage_bps: float = 10.0
+    backtest_position_pct: float = 0.10
+
     log_level: str = "INFO"
 
 

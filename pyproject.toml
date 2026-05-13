@@ -12,6 +12,12 @@ dependencies = [
     "pydantic-settings>=2.6",
     "structlog>=24.4",
     "httpx>=0.28",
+    "databento>=0.78.0",
+    "duckdb>=1.5.2",
+    "pandas>=3.0.3",
+    "pyarrow>=24.0.0",
+    "streamlit>=1.57.0",
+    "plotly>=6.7.0",
 ]
 
 [project.scripts]
@@ -22,6 +28,7 @@ dev = [
     "pytest>=8.3",
     "ruff>=0.8",
     "mypy>=1.13",
+    "pandas-stubs>=3.0.0.260204",
 ]
 
 [build-system]
@@ -42,6 +49,10 @@ select = ["E", "F", "W", "I", "N", "UP", "B", "A", "C4", "RUF"]
 python_version = "3.13"
 strict = true
 files = ["src/rizq"]
+
+[[tool.mypy.overrides]]
+module = ["streamlit", "streamlit.*", "plotly", "plotly.*"]
+ignore_missing_imports = true
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
