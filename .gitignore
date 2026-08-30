@@ -16,3 +16,6 @@ venv/
 dist/
 build/
 .DS_Store
+
+# personal, machine-local Claude Code permissions — never share
+.claude/settings.local.json
